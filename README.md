@@ -13,6 +13,7 @@ My name is Vin and I'm a Mid-Level Application Engineer and a DevOps Engineer. I
 [clearance-manager](https://github.com/VinDotRun/clearance-manager) - A Discord bot created with Node.js for Site-54 to give Roblox group roles to users and used for Roblox verification (using [RoVer API](https://github.com/evaera/RoVer)) (private)\
 [site-54-api](https://github.com/VinDotRun/site-54-api) - A Node.js RESTful API created to handle general requests coming from Site-54 Roblox game (private)\
 [roblox-bot](https://github.com/VinDotRun/roblox-bot) - A Discord bot created with Node.js using discord.js and noblox.js to integrate Roblox group actions into Discord, for example changing a user's group rank through Discord commands (private)
+[altv-archives](https://github.com/VinDotRun/altv-archives) - This repository is used to store scripts and resources for alt:V that does not belongs to a specific project or repository (public)
 
 ### Programming Languages Experience
 

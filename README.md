@@ -4,9 +4,9 @@ Hello there 👋!
 
 My name is Vin and I'm a Mid-Level Application Engineer and a DevOps Engineer. I'm 16 years old and I live in São Paulo, Brazil. I own and direct a Roblox game called [Site-54](https://www.roblox.com/games/4891788856).
 
-### Current Projects
+### My Projects
 
-[Site-54 Roblox Game](https://www.roblox.com/games/4891788856) using Lua and Node.js *(Owner/Project Manager/Head Developer)*
+[Site-54 Roblox Game](https://www.roblox.com/games/4891788856) using Lua and Node.js
 
 ### Current Repositories
 
@@ -34,7 +34,7 @@ nginx (since 2018)
 
 ### Current Jobs
 
-[Site-54](https://www.roblox.com/groups/5455143) - Owner, Project Manager and Head Developer
+[Site-54](https://www.roblox.com/groups/5455143) - Owner, Project Manager, Application Engineer and DevOps Engineer
 
 ### Contact Me
 

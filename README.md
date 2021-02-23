@@ -2,7 +2,7 @@
 
 Hello there 👋!
 
-My name is Vin and I'm a Mid-Level Programmer. I'm 16 years old and I live in São Paulo, Brazil. I own and direct a Roblox game called [Site-54](https://www.roblox.com/games/4891788856).
+My name is Vin and I'm a Mid-Level Application Engineer and a DevOps Engineer. I'm 16 years old and I live in São Paulo, Brazil. I own and direct a Roblox game called [Site-54](https://www.roblox.com/games/4891788856).
 
 ### Current Projects
 
@@ -27,7 +27,7 @@ Node.js libraries that I mostly use and have most of experience.\
 [noblox.js](https://github.com/suufi/noblox.js) (since 2020)\
 [express](https://github.com/expressjs/express) (since 2021)
 
-### Other Experiences
+### DevOps Experiences
 
 nginx (since 2018)
 

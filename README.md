@@ -4,8 +4,8 @@ I am the owner and Head Developer of a Roblox game called [Site-54](https://www.
 
 <div>
   <a href="https://github.com/VinDotRun">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VinDotRun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinDotRun&layout=compact&langs_count=7&theme=midnight-purple">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VinDotRun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinDotRun&layout=compact&langs_count=7&theme=midnight-purple">
   </a>
 </div>
 

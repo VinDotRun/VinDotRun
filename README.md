@@ -1,6 +1,5 @@
 ## Hello!
 Welcome to my GitHub profile. I'm Vin (He/him) and I am a Software Engineer and a DevOps Engineer.
-I am the owner and Head Developer of a Roblox game called [Site-54](https://www.roblox.com/groups/5455143).
 
 <div>
   <a href="https://github.com/VinDotRun">

@@ -19,22 +19,4 @@ I am the owner and Head Developer of a Roblox game called [Site-54](https://www.
   </a>
 </div>
 
-## Get involved
-You can join Site-54's Discord server clicking the button below.
-
-<div style="display: inline_block">
-  <a href="https://discord.gg/WP3QJJV">
-      <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</div>
-
-## Support Me
-Willing to support me? Become my Patron and get exclusive benefits in Site-54!
-
-<div style="display: inline_block">
-  <a href="https://www.patreon.com/VinDotRun">
-      <img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
-  </a>
-</div>
-
 ![Snake animation](https://github.com/VinDotRun/VinDotRun/blob/output/github-contribution-grid-snake.svg)

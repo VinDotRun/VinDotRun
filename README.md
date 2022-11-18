@@ -1,5 +1,5 @@
 ## Hello!
-Welcome to my GitHub profile. I'm Vin (He/him) and I am a Back-end Software Engineer. I am learning DevOps Engineering, Infrastructure Engineering and Cloud Engineering.
+Welcome to my GitHub profile. I'm Vin (He/him) and I am a Back-end Software Engineer. I also have experience in Cloud Architecture and Cloud Engineering. I am currently studying to become a Network Engineer.
 
 <div>
   <a href="https://github.com/VinDotRun">

@@ -18,5 +18,3 @@ Welcome to my GitHub profile. I'm Vin (He/him) and I am a Back-end Software Engi
       <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   </a>
 </div>
-
-![Snake animation](https://github.com/VinDotRun/VinDotRun/blob/output/github-contribution-grid-snake.svg)
